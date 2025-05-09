@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "funciones.h"
+#include "funciones2.h"
 
 
 char nombres[10][50];
